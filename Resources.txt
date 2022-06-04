@@ -1,0 +1,3 @@
+Resources: 
+
+-> Intro to Machine Learning Course by Stanford on Coursera
